@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ninjaibmaq@gmail.com
+	name = Ibrahim Maqsood ninjaibmaq@gmail.com
